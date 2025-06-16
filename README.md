@@ -27,3 +27,10 @@
 git clone https://github.com/netscripor/combine_scripts
 cd combine_scripts
 python3 combine_scripts.py <входная_папка> <выходной_файл.md> [опции]
+
+
+📡 Подпишись и поддержи проект:
+
+🔗 GitHub: github.com/netscripor
+💰 Boosty: boosty.to/netscripor
+✈️ Telegram-канал: t.me/netscripor
